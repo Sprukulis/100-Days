@@ -18,3 +18,10 @@ Today's Progress: Did spend 1h in codeacademy. Was refreshing.
 
 Thoughts: Seems that splitting up the learning in smaler chunks will be more productive as after 40 min the brain starts to loose focus.
 
+
+Day 4: October 4, 2017
+
+Today's Progress: Did spend only 30 min in Treehouse.
+
+Thoughts: Only managed to get home late so my brain couldnt keep up the full 1 h :(.
+
