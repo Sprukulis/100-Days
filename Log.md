@@ -25,3 +25,8 @@ Today's Progress: Did spend only 30 min in Treehouse.
 
 Thoughts: Only managed to get home late so my brain couldnt keep up the full 1 h :(.
 
+Day 5: October 5, 2017
+
+Today's Progress: Did finish a part in Treehouse and some codeacadamy .
+
+Thoughts: Will try to get 20 min of codeacademy coding in the morning at work :).
