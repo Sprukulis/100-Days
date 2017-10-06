@@ -30,3 +30,10 @@ Day 5: October 5, 2017
 Today's Progress: Did finish a part in Treehouse and some codeacadamy .
 
 Thoughts: Will try to get 20 min of codeacademy coding in the morning at work :).
+
+
+Day 6: October 6, 2017
+
+Today's Progress: Nice codeacadamy time.
+
+Thoughts: 20 min of coding at works seems to be a good idea  :).
