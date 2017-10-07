@@ -37,3 +37,7 @@ Day 6: October 6, 2017
 Today's Progress: Nice codeacadamy time.
 
 Thoughts: 20 min of coding at works seems to be a good idea  :).
+
+Day 7: October 7, 2017
+
+Today's Progress: didnt get much time, but managed to try out a few code editors for the upcomming LernPythonTheHardWay :)  VSCode rocks!!!
