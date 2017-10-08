@@ -41,3 +41,9 @@ Thoughts: 20 min of coding at works seems to be a good idea  :).
 Day 7: October 7, 2017
 
 Today's Progress: didnt get much time, but managed to try out a few code editors for the upcomming LernPythonTheHardWay :)  VSCode rocks!!!
+
+Day 8: October 8, 2017
+
+Today's Progress: Some codeacadamy time.
+
+Thoughts: can't w8 to get my LPTHW book  :).
