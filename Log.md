@@ -47,3 +47,8 @@ Day 8: October 8, 2017
 Today's Progress: Some codeacadamy time.
 
 Thoughts: can't w8 to get my LPTHW book  :).
+
+
+Day 9: October 9, 2017
+
+Today's Progress: Just some treehouse coding. Got a package from amazon.. hope its LPTHW :)
