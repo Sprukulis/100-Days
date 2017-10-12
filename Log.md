@@ -56,3 +56,9 @@ Today's Progress: Just some treehouse coding. Got a package from amazon.. hope i
 Day 10: October 10, 2017
 
 Today's Progress:  managed to get only 40 min. of codeacademy today.
+
+
+Day 12: October 12, 2017
+
+Today's Progress:  Only 25 main on codeacademy on 11.10 Finally starts to get a bit harder :).
+Today treehouse coding adn the Treehouse anaconda workshop. Only one more full day till i start LPTHW on saturday :)
