@@ -66,3 +66,8 @@ Today treehouse coding adn the Treehouse anaconda workshop. Only one more full d
 Day 13: October 13, 2017
 
 Today's Progress:  Just a bit of treehouse and looking at pycharmEDU. Staring to look into LPTHW :) 
+
+
+Day 16: October 16, 2017
+
+Today's Progress:  LPTHW :) Will have to reinstall the PC to get the Anniversary update and to start from scratch. So i could tell that i did everything by the book :) Might have to switch to laptop as my fulltime PC for the 2x screens and so i dont have to switch the computers a lot. Putting my gaming PC away might give me a bit more time for coding. 
