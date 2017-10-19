@@ -76,3 +76,10 @@ Today's Progress:  LPTHW :) Will have to reinstall the PC to get the Anniversary
 Day 17: October 17, 2017
 
 Today's Progress:  LPTHW continues :)
+
+
+Day 19: October 19, 2017
+
+Today's Progress:  LPTHW :)
+
+Did skip yesterday as i was home late ind my braind wasnt capable of thinking.
